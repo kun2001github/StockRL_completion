@@ -4,7 +4,7 @@ Visual Studio Code
 
 Anconda Navigator 版本：2.5.3
 
-注意：我已经把作者提供的data+model+result都上传到了项目里面，可以直接跑，不用训练啦
+直接下载作者提供好的data+model+result，解压到项目的learn里面，详情看以下链接
 https://github.com/sunnyswag/StockRL/releases/tag/1.0
 
 ## 开始
